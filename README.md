@@ -18,5 +18,4 @@
 <div>
   <a href="mailto:wylkersilva05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-X23333?style=for-the-badge&logo-gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wylker_e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.link/rqxia7"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
