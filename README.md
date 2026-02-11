@@ -1,15 +1,9 @@
 ## Opa, tudo bem? Eu sou o Wylker 
 
-- 🎓 Bacharelando em Sistemas de Informação - IFAL Maceió
 - 👨‍💻 Desenvolvedor Django | Next.js | JavaScript | Tailwind | Oracle | SQL 
+- 🎓 Bacharelando em Sistemas de Informação - IFAL Maceió
 - 📫 Contate-me no email: wylkersilva05@gmail.com
 - 😄 Pronomes: ele/dele
-
-<div>
-  <a href="https://github.com/WylkerS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WylkerS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WylkerS&layout=compact&langs_count=16&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Wylker-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
