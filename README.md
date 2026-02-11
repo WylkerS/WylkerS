@@ -1,8 +1,8 @@
 ## Opa, tudo bem? Eu sou o Wylker 
 
 - 🎓 Bacharelando em Sistemas de Informação - IFAL Maceió
-- 👨‍💻 Estudando Java, Python, Git e SQL
-- 📫 Contate-me no email: wylkersilvacorp@gmail.com
+- 👨‍💻 Desenvolvedor Django | Next.js | JavaScript | Tailwind | Oracle | SQL 
+- 📫 Contate-me no email: wylkersilva05@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div>
